@@ -1,4 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/alice3e?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="alice3e stats" />
+<img src="https://myreadme.vercel.app/api/embed/alice3e?panels=toprepositories,toplanguages,commitgraph" alt="alice3e stats" />
 
 <img src="https://komarev.com/ghpvc/?username=alice3e&color=red" alt="watching_count" />
 
