@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alice3e&show_icons=true&theme=default" alt="Image 2" height="200px">
-  <img src="https://myreadme.vercel.app/api/embed/alice3e?panels=toprepositories,toplanguages,commitgraph" alt="Image 1" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=alice3e&show_icons=true&theme=default" alt="Image 2" height="150px">
+  <img src="https://myreadme.vercel.app/api/embed/alice3e?panels=toprepositories,toplanguages,commitgraph" alt="Image 1" height="150px">
 </p>
 
 
