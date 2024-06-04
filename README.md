@@ -3,7 +3,9 @@
   <img src="https://myreadme.vercel.app/api/embed/alice3e?panels=toprepositories,toplanguages,commitgraph" alt="Image 1" height="150px">
 </p>
 
-[![alice3e's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alice3e)](https://github.com/anuraghazra/github-readme-stats)
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alice3e&layout=compact" alt="Image 2" height="350px">
+</p>
 
 <p float="left">
     <img src="https://komarev.com/ghpvc/?username=alice3e&color=red" alt="watching_count" height="20px"/>
